@@ -1,0 +1,7 @@
+write a function that takes target sum and array of integer as arguments 
+and returns an array containing any of the combination of the number provided in array of integer
+ that add up to the target sum
+
+ and if there is no combination that add up to that target sum then return null
+
+ if there are multiple combination that add up to that sum then you can return only single one
